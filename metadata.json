@@ -1,0 +1,6 @@
+{
+  "name": "RetailIQ – Sales & Inventory Copilot",
+  "description": "Intelligent retail sales and inventory copilot that helps store managers make real-time restocking and operational decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
